@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SENG201-Assignment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SENG201_Assignment_jar</output-path>
+    <root id="archive" name="SENG201-Assignment.jar">
+      <element id="module-output" name="SENG201-Assignment" />
+    </root>
+  </artifact>
+</component>

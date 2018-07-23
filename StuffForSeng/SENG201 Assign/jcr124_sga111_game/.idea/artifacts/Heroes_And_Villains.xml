@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Heroes And Villains">
+    <output-path>$USER_HOME$/OneDrive/SENG201 Assign</output-path>
+    <root id="root">
+      <element id="archive" name="SENG201-Assignment.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/SENG201_Assignment_jar/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="SENG201-Assignment" />
+      </element>
+    </root>
+  </artifact>
+</component>
